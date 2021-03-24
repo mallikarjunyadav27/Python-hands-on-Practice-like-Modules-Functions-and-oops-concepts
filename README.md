@@ -13,9 +13,6 @@ Child class is the class that inherits from another class, also called derived c
 What is a Module?
 Consider a module to be the same as a code library.
 A file containing a set of functions you want to include in your application.
-What is a Module?
-Consider a module to be the same as a code library.
-A file containing a set of functions you want to include in your application.
 
 
 
